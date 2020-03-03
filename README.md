@@ -8,7 +8,7 @@ https://gomakethings.com/how-to-turn-any-github-repo-into-a-cdn/
 
 • index.html file loads axios-get-post.js CDN repo example.
 
-• jsonstore.io document used in demo:   
+• jsonstore.io document used in the html file demo:   
 https://www.jsonstore.io/417509bb4c82cb8d0e1dde6d34e2be4b88c2f8d17a98daa0094973c5517175fa
 
 
