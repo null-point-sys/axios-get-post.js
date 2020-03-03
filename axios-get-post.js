@@ -26,10 +26,3 @@ var print_get = function(data) {
 		print_get(data);
 	  }
 	}
-
-	var url   = "";
-	var dato1 = "47";
-	var dato2 = "aaa";
-	var obj = { firstName: dato1, lastName: dato2 };
-	  makeRequest("post", url, obj);
-	//makeRequest("get",  url, obj);
