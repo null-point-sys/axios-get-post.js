@@ -16,7 +16,7 @@ https://www.jsonstore.io/417509bb4c82cb8d0e1dde6d34e2be4b88c2f8d17a98daa0094973c
 
 • Architecture overview:
 
-  <img src="https://user-images.githubusercontent.com/25323947/75786966-06ae7300-5d34-11ea-9465-25d896b88936.png"></img>                   
+  <img src="https://user-images.githubusercontent.com/25323947/75788454-42e2d300-5d36-11ea-9e94-9e45496dce0a.png"></img>                   
 
 
 
