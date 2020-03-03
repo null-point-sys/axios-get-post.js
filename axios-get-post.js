@@ -8,8 +8,8 @@ var print_get = function(data) {
 	  }*/
 };
 
-	async function makeRequest(requestType, url, obj) {
-	  if (requestType === "post") {
+async function makeRequest(requestType, url, obj) {
+	if (requestType === "post") {
 		// axios post
 		axios
 		  .post(url, obj)
@@ -25,4 +25,4 @@ var print_get = function(data) {
 		let data = res.data;
 		print_get(data);
 	  }
-	}
+}
