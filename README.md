@@ -21,7 +21,7 @@ https://www.jsonstore.io/417509bb4c82cb8d0e1dde6d34e2be4b88c2f8d17a98daa0094973c
   
   Next:
   
-  • Encript data to store it
+  • Encript data to store it  
   • JWT authentication in browser
 
 
