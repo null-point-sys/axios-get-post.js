@@ -16,11 +16,7 @@ https://www.jsonstore.io/417509bb4c82cb8d0e1dde6d34e2be4b88c2f8d17a98daa0094973c
 
 • Architecture overview:
 
-   Browser instance                                               |  CDN deliver Js instance    |  Json Document instance              
-                                                                  |                             | 
-   https://PeachpuffAggravatingUtilities--five-nine.repl.co (2)  < > axios-get-post.js CDN (1) < >    jsonstore.io (4)
-       |                                                          |                             |
-   localstorage (4)                                               |                             |
+  <img src="https://user-images.githubusercontent.com/25323947/75786966-06ae7300-5d34-11ea-9465-25d896b88936.png"></img>                   
 
 
 
