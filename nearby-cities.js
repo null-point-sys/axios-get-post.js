@@ -85,7 +85,6 @@ function loadDoc() {
         publicationsContainer.appendChild(publicationsFragment);
       };
       const loadPublications = ev => {
-        ev.preventDefault();
         //const keyword = form.elements["search"].value;
         loadDoc();
         const keyword = lat;
