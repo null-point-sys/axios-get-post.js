@@ -12,7 +12,7 @@ https://PeachpuffAggravatingUtilities--five-nine.repl.co (2)
 • jsonstore.io document used in the html file demo:   
 https://www.jsonstore.io/417509bb4c82cb8d0e1dde6d34e2be4b88c2f8d17a98daa0094973c5517175fa (3)
 
-• nearby-cities CDN :
+• nearby-cities CDN :  
 https://cdn.jsdelivr.net/gh/null-point-sys/axios-get-post.js/nearby-cities.js
 
 • Localstorage local (browser) data persistence (4)
